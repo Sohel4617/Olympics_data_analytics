@@ -5,7 +5,6 @@ import plotly.express as px
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
-import scipy
 import plotly.graph_objects as go
 
 
